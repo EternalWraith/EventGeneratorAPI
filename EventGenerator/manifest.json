@@ -1,0 +1,10 @@
+﻿{
+  "Name": "EventGenerator",
+  "Author": "EternalWraith",
+  "Version": "1.0.0",
+  "Description": "Makes it easier to make Custom Events",
+  "UniqueID": "EternalWraith.EventGenerator",
+  "EntryDll": "EventGenerator.dll",
+  "MinimumApiVersion": "2.0",
+  "UpdateKeys": []
+}

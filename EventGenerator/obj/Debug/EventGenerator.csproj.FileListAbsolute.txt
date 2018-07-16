@@ -1,0 +1,6 @@
+C:\Users\jajay\Desktop\Stardew Mods\EventGenerator\EventGenerator\EventGenerator\obj\Debug\EventGenerator.csprojAssemblyReference.cache
+C:\Users\jajay\Desktop\Stardew Mods\EventGenerator\EventGenerator\EventGenerator\obj\Debug\EventGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jajay\Desktop\Stardew Mods\EventGenerator\EventGenerator\EventGenerator\bin\Debug\EventGenerator.dll
+C:\Users\jajay\Desktop\Stardew Mods\EventGenerator\EventGenerator\EventGenerator\bin\Debug\EventGenerator.pdb
+C:\Users\jajay\Desktop\Stardew Mods\EventGenerator\EventGenerator\EventGenerator\obj\Debug\EventGenerator.dll
+C:\Users\jajay\Desktop\Stardew Mods\EventGenerator\EventGenerator\EventGenerator\obj\Debug\EventGenerator.pdb
