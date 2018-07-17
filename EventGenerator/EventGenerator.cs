@@ -699,7 +699,7 @@ namespace EventGenerator
         /// Flashes the screen with the set opacity
         /// </summary>
         /// <param name="alpha">A value ranging from 0 to 1.0</param>
-        public void Flash(float alpha)
+        public void Flash(double alpha)
         {
             commands.Add($"screenFlash {alpha}");
         }
